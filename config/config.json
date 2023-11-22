@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x78B1C0c3fd574661633E919A833193e957173318",
+  "SCAN_LINK": "https://explorer.rethereum.org/address/0xaEC51ee29D7e1d693F1dD0d97A81e846a5a37bDb",
+  "NETWORK": {
+    "NAME": "Rethereum",
+    "SYMBOL": "RTH",
+    "ID": 622277
+  },
+  "NFT_NAME": "COOL CAT",
+  "SYMBOL": "CATS",
+  "MAX_SUPPLY": 150,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
